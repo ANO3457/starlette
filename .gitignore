@@ -5,6 +5,7 @@ test.db
 .mypy_cache/
 __pycache__/
 htmlcov/
+temp_auto_push.bat
 site/
 *.egg-info/
 venv*/
@@ -12,3 +13,5 @@ venv*/
 .python-version
 build/
 dist/
+.gitignore
+branch_structure.json
